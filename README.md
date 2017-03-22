@@ -6,7 +6,7 @@ Most of the code in this repo isn't mine, except for gen_clas.py
 gen_clas.py
 ---------------
 
-gen_clas is a general purpose classifier written in  tensorflow. It can classify different datasets of varying length, dimension and number of categories, with no changes to the python code. Using the .csv's in this repo, I have classified the MNIST, iris and blood transfusion datasets, all taken from kaggle.
+gen_clas is a general purpose classifier written in  tensorflow. It can classify different datasets of varying length, dimension and number of categories, with no changes to the python code (generality comes at some cost in accuracy and training time). Using the .csv's in this repo, I have classified the MNIST, iris and blood transfusion datasets, all taken from kaggle.
 
 csv format
 ---------------
